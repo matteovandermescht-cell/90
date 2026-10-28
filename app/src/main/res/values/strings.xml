@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources><string name="app_name">ScreenBot</string></resources>
+<resources>
+    <string name="app_name">ScreenBot</string>
+    <string name="accessibility_service_description">ScreenBot zeigt den Status des Accessibility-Dienstes an.</string>
+</resources>
